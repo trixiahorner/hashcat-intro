@@ -1,5 +1,5 @@
 # *Intro to hashcat* #
-This is a general introduction to hashcat, the powerful password cracking tool. The demonstration begins with generating md5 hashes and using hashcat to crack the password.
+This is a general introduction to hashcat, the powerful password cracking tool. The demonstration begins with generating md5 hashes and using hashcat to crack the password. Not only is this a basic 101 walkthrough of the hashcat tool, but it also serves to demonstrate why md5 hashing is not recommended for cryptographic security. 
 
 ### Install ###
 - Download [the latest release of hashcat](https://hashcat.net/hashcat/) and use 7z to unpack. 
