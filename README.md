@@ -3,7 +3,7 @@ This is a general introduction to hashcat, the powerful password cracking tool. 
 
 ### Install ###
 - Download [the latest release of hashcat](https://hashcat.net/hashcat/) and use 7z to unpack. 
-- Running *hashcat* in virtual machine vs host OS: *hashcat* takes advantage of a systems's GPU for it's parallel processing abilities (also used in gaming and AI). The GPU can perform more efficiently than the general purpose CPU. To put simply, the faster the GPU, the faster and more efficient *hashcat* will run.  It is possible to use *hashcat* inside of a virtual machine; however, it will use the CPU instead, making the process slower.
+- **Running *hashcat* in virtual machine vs host OS:** *hashcat* takes advantage of a systems's GPU for it's parallel processing abilities (also used in gaming and AI). The GPU can perform more efficiently than the general purpose CPU. To put simply, the faster the GPU, the faster and more efficient *hashcat* will run.  It is possible to use *hashcat* inside of a virtual machine; however, it will use the CPU instead, making the process slower.
 
 ### Usage ###
 - Features
